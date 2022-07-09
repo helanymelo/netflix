@@ -1,10 +1,10 @@
 
 
-#   HelaFlix
+#HelaFlix
 
 A ideia central deste projeto é renderizar uma tela-clone da plataforma Netflix com o intuito de praticar HTML, CSS e JAVASCRIP (JQUERY). O projeto foi realizado durante o bootcamp da Impulso na pataforma Digital Innovation One.
 
-# Índice
+#Índice
 
 - [Descrição](#-descrição-do-projeto)
 - [Como acessar o projeto](#-como-acessar-o-projeto)
@@ -21,7 +21,7 @@ A ideia central deste projeto é renderizar uma tela-clone da plataforma Netflix
 
 ---
 
-## 🖋 Descrição do projeto
+##🖋 Descrição do projeto
 
 O projeto contém uma página  **Home:**
 
@@ -32,7 +32,7 @@ O projeto contém uma página  **Home:**
 
 ---
 
-## 🌎 Como acessar o projeto
+##🌎 Como acessar o projeto
 
 - [Link do surge](encouraging-sleep.surge.sh/)
 
@@ -40,7 +40,7 @@ O projeto contém uma página  **Home:**
 
 
 
-## 🚀 Tecnologias utilizadas
+##🚀 Tecnologias utilizadas
 
 O projeto foi desenvolvido usando as seguintes tecnologias:
 
